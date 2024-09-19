@@ -1,0 +1,22 @@
+body{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{padding: 20px;
+    color: #006980;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: #006980;
+
+}
+
+p{
+    padding: 50px;
+    font-size: 18px;
+    color: gray;
+    text-align: center;
